@@ -1,1 +1,4 @@
 abc file modified
+lin5
+lin6
+lin7
